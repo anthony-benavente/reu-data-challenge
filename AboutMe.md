@@ -2,7 +2,7 @@ About Me
 ===
 | | |
 |---	|---	|
-| What I look like:  	| <img src="http://benavente.me/assets/profilepic.png" alt="What I look like" style="border-radius:50%;">  	|
+| What I look like:  	| ![What I look like.][profilePic]  	|
 |  Name: | Anthony Benavente   	|
 |  Current School: 	|  Western Carolina University 	|
 |  Birthplace: 	| [Saipan, Northern Mariana Islands](https://en.wikipedia.org/wiki/Saipan)  	|
