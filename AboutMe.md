@@ -1,7 +1,6 @@
 About Me
 ===
-| | |
-|---	|---	|
+
 | What I look like:  	| ![What I look like.][profilePic]  	|
 |  Name: | Anthony Benavente   	|
 |  Current School: 	|  Western Carolina University 	|
